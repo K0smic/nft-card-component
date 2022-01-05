@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop: 1440px](https://github.com/K0smic/NFT_CARD/blob/master/design/Final/Desktop.png)
-![Mobile: 375px](https://github.com/K0smic/NFT_CARD/blob/master/design/Final/Mobile.png)
+<img src="/design/Final/Desktop.png" width="100%" height="auto"><img src="/design/Final/Mobile.png" width="100%" height="auto">
 
 <!-- ### Links
 
