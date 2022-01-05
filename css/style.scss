@@ -1,0 +1,103 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  height: 100%;
+}
+
+.container__bg {
+  background-color: hsl(217, 54%, 11%);
+  width: 100vw;
+  height: 100vh;
+  font-family: "Outfit", sans-serif;
+  color: hsl(215, 30%, 70%);
+}
+
+.card {
+  width: 18rem;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 0.5rem;
+
+  a {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+
+    &:hover {
+      color: hsl(178, 70%, 50%);
+    }
+  }
+
+  &__image {
+    padding: 1.25rem;
+    position: relative;
+    .card-img-top,
+    &--hover {
+      height: 15.375rem;
+      width: 15.375rem;
+      max-height: 15.375rem;
+      max-width: 15.375rem;
+    }
+    &--hover {
+      opacity: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-align: center;
+
+      .card__image--icon {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+      }
+    }
+    &--hover:hover {
+      opacity: 0.7;
+      background-color: hsl(178, 70%, 50%);
+    }
+  }
+
+  &__body {
+    padding-top: 0;
+
+    &__title {
+      font-weight: 400;
+    }
+    &__text {
+      font-weight: 300;
+    }
+    &__info {
+      font-size: 0.9em;
+      font-weight: 300;
+      .eth {
+        color: hsl(178, 70%, 50%);
+        font-weight: 600;
+      }
+    }
+    &__icon {
+      height: 1rem;
+      max-height: 1rem;
+      margin-right: 0.1rem;
+      margin-bottom: 0.2rem;
+    }
+    &__footer {
+      font-size: 0.9em;
+      font-weight: 300;
+    }
+    &__author {
+      .avatar {
+        width: 32px;
+        height: auto;
+      }
+    }
+    hr {
+      color: hsl(215, 51%, 70%);
+    }
+  }
+  .card-body,
+  .card-title {
+    margin-bottom: 1rem;
+  }
+}
