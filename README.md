@@ -29,10 +29,9 @@ Users should be able to:
 
 <img src="/design/Final/Desktop.png" width="100%" height="auto"><img src="/design/Final/Mobile.png" width="100%" height="auto">
 
-<!-- ### Links
+ ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [NTF_CARD](https://k0smic.github.io/NFT_CARD/)
 
 ## My process
 
