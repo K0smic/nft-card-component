@@ -10,7 +10,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
     - [The challenge](#the-challenge)
     - [Screenshots](#screenshots)
   - [My process](#my-process)
-    - [Total time: 3h 45m](#total-time-3h-45m)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
@@ -31,7 +30,7 @@ Users should be able to:
 
  ### Links
 
-- Live Site URL: [NTF_CARD](https://k0smic.github.io/NFT_CARD/)
+- Live Site URL: [Preview](https://k0smic.github.io/nft-preview-card-component/)
 
 ## My process
 
