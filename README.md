@@ -9,7 +9,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshots](#screenshots)
+    - [Links](#links)
   - [My process](#my-process)
+    - [Total time: 3h 45m](#total-time-3h-45m)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
@@ -26,7 +28,7 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="/design/Final/Desktop.png" width="100%" height="auto"><img src="/design/Final/Mobile.png" width="100%" height="auto">
+<img src="/design/final/desktop.png" width="100%" height="auto"><img src="/design/final/mobile.png" width="100%" height="auto">
 
  ### Links
 
