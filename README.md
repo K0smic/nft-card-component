@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="/design/final/desktop.png" width="100%" height="auto"><img src="/design/final/mobile.png" width="100%" height="auto">
+<img src="./design/final/desktop.png" width="100%" height="auto"><img src="./design/final/mobile.png" width="100%" height="auto">
 
  ### Links
 
